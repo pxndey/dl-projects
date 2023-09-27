@@ -1,0 +1,8 @@
+train: ./data/train  # 118287 images
+val: ./data/validation  # 5000 images
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'tony stark' ]
